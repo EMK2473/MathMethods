@@ -14,11 +14,7 @@ public class MathMethods {
       double input3 = Math.abs(y);
       double sqrtValue = Math.pow(x * y, z);
       double input4 = Math.sqrt(sqrtValue);
-      System.out.println(input1);
-      System.out.println(input2);
-      System.out.println(input3);
-      System.out.println(input4);
-      System.out.println(sqrtValue);
+      System.out.println(input1 + " " + input2 + " " + input3 + " " + input4);
       scnr.close();
    }
 }
