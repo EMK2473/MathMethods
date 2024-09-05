@@ -8,6 +8,13 @@ public class MathMethods {
       double x = scnr.nextDouble();
       double y = scnr.nextDouble();
       double z = scnr.nextDouble();
+
+      double input1;
+      double input2;
+      double input3;
+      double input4;
+      double sqrtValue;
       
+      scnr.close();
    }
 }
