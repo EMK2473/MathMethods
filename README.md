@@ -39,6 +39,8 @@ Using terminal commands:
 ## Application Usage
 Once the program is running, it will prompt you to enter three double values (x, y, and z). These values will be used to demonstrate various mathematical operations.
 
+This application serves a very niche purpose; however, it can be easily modified to fufill other mathematical application purposes.
+
 ## Contributions
 Eric Keeton
 
